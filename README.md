@@ -12,3 +12,7 @@ We will decide which city to recommend by breaking down the problem into three m
 - The market opportunity
 - The economic status of each city
 - The feasibility of each city
+
+...
+
+See the **analysis.ipynb** jupyter notebook to find our in-depth analysis and recommendation
